@@ -1,1 +1,1 @@
-# Card
+Fun & Skill project
