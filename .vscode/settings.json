@@ -1,5 +1,6 @@
 {
     "search.exclude": {
         "Prettier - Code Formatter": true
-    }
+    },
+    "liveServer.settings.port": 5501
 }
